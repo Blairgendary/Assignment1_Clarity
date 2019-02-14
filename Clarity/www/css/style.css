@@ -1,0 +1,43 @@
+* { 
+box-sizing: border-box;
+max-width: 100vw;
+max-height: 100vh;
+}
+#sketch-holder {
+    position:;
+    display:flex;
+    margin-top:30vw;
+    height:100px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+img{
+    position: relative;
+    display:block;
+    width:100px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+#refresh-but { 
+    position: relative;
+    margin-top: 80vh;
+    text-align: center;
+    width: 20vw;
+    height:20vw;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:aqua;
+    bottom:300px;  
+    padding: 4vw;;
+}
+
+#refresh { 
+position:relative;
+margin: auto;
+font-size: 10vw;
+}
+
